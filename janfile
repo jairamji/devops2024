@@ -1,1 +1,5 @@
 hello jan 24
+new branch created,
+git init
+git remote add origin github url 
+git pull origin master to get the file which was pushed from syd branch
